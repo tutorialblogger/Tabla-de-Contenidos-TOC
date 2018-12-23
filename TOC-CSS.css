@@ -1,0 +1,59 @@
+
+ /*=====================================
+= Indice (Table of Contents: TOC)
+=====================================*/
+
+/* Spoiler */
+.spoiler {
+  border: 1px solid #008bbe;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: rgb(226, 242, 242);
+}
+.spoiler-toggle {
+  font-weight: bold;
+  cursor: default;
+  padding: 5px;
+  font-size: 12px;
+  color: #333;
+}
+.spoiler-text {
+  padding: 5px;
+}
+
+/* TOC */
+
+#toc {
+ list-style: none;
+ margin-bottom: 20px;
+}
+#toc li {
+ background: url(https://2.bp.blogspot.com/-8Yjv2SFphvc/WV-FoSnJJyI/AAAAAAAAFBM/MO8HAd35kMkkoB1j7OxHHZwnX3-i0MvywCLcBGAs/s1600/dot.gif) repeat-x bottom left;
+ overflow: hidden;
+ padding-bottom: 2px;
+}
+#toc a,
+#toc span {
+ display: inline-block;
+    background: rgb(226, 242, 242);
+ position: relative;
+ bottom: -4px;
+}
+#toc a {
+ float: right;
+ padding: 0 0 3px 2px;
+}
+#toc span {
+ float: left;
+ padding: 0 2px 3px 0;
+}
+
+#wrapper {
+ text-align: left;
+ margin: 1em auto;
+ width: 80%;
+    color: #008bbe;
+}
+ 
+ 

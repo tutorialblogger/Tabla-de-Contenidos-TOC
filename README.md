@@ -24,7 +24,7 @@ Este indice de contenidos en CSS, HTML, fue tomado de <a href="http://5thirtyone
 
 # Por mejorar.
 
-- Que los títulos esten dentro de la tabla TOC con sus H1 o H2 orientado al SEO ONPAGE, en su defecto que solo quede el enlace del título como el los pluging de un CMS.
+- Que los títulos esten dentro de la tabla TOC con sus H1 o H2 orientado al SEO ONPAGE, en su defecto que solo quede el enlace del título como en los pluging de un CMS.
 - Mejorar la versión responsive para móviles.
 - Que funcione con la Jquery actual ya que solo funciona con la versión 1.11.0
 

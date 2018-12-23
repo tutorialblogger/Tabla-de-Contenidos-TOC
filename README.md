@@ -4,7 +4,7 @@ Este es un ejemplo de cómo usar una Tabla de Contenidos en blogger. <a href="ht
 
 # Instalación.
 
-Copia todo el contenido de <a href="https://github.com/tutorialblogger/Tabla-de-Contenidos-TOC/blob/master/TOC-CSS.css">TOC-CSS</a>. Ahora ve a Blogger, luego ve a Temas > Editar HTML, y busca  ]]></b:skin> dentro del editor y  antes de esa línea pega el código CSS copiado con anterioridad. Guarda los cambios.
+Copia todo el contenido de <a href="https://github.com/tutorialblogger/Tabla-de-Contenidos-TOC/blob/master/TOC-CSS.css">TOC-CSS</a>. Ahora ve a Blogger, luego ve a Temas > Editar HTML, y busca "]]></b:skin>" dentro del editor y  antes de esa línea pega el código CSS copiado con anterioridad. Guarda los cambios.
 
 Luego añadimos el script <a href="https://github.com/tutorialblogger/Tabla-de-Contenidos-TOC/blob/master/TOC-Script.js">TOC-Script</a> que ejecutara la expancion y contracción de la tabla de contenidos en nuestra plantilla de blogger. Buscamos el cierre de head "&lt;/head&gt;" y antes de ella pegamos nuestro script.
 

@@ -20,7 +20,7 @@ Debes usar los Anclajes y enlaces ancla para hacer que la tabla funciones en el 
 
 # Derechos de autor.
 
-Este indice de contenidos en CSS, HTML, fue tomadO de <a href="http://5thirtyone.com/sandbox/share/toc/" target="_blank">5thirtyone</a> y adaptada para blogger dentro de un JavaScript (spoiler)
+Este indice de contenidos en CSS, HTML, fue tomado de <a href="http://5thirtyone.com/sandbox/share/toc/" target="_blank">5thirtyone</a> y adaptada para blogger dentro de un JavaScript (spoiler que aun no recuerdo de donde lo tome :) )
 
 # Por mejorar.
 

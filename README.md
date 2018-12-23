@@ -11,6 +11,12 @@ Luego añadimos el script <a href="https://github.com/tutorialblogger/Tabla-de-C
 Por ultimo copia todo el contenido de <a href="https://github.com/tutorialblogger/Tabla-de-Contenidos-TOC/blob/master/TOC-HTML.html">TOC-HTML</a> y pegalo dentro de blogger en la parte superior de tus entradas o páginas estaticas, así el visitante de tu blog podrá navegar por el contenido de tu post sin problemas o simplemente leer lo que mas le interese de tu indice de contenidos.
 Cambiar en el archivo xml el contenido de ejemplo por tus datos. 
 
+# Nota adicional.
+
+Debes usar los Anclajes y enlaces ancla para hacer que la tabla funciones en el mismo post, ejemplo:
++En el enlace debes colocar la ruta al anclaje: <a href="#1">Capítulo 1</a>
++En el titulo debes colocar un nombre e Id del anclaje: <h2><a name="1" id="1"></a>Título del Capítulo 1</h2>
+
 # Derechos de autor.
 
 Este indice de contenidos en CSS, HTML, fue tomada de <a href="http://5thirtyone.com/sandbox/share/toc/" target="_blank">5thirtyone</a> y adaptada para blogger dentro de un JavaScript (spoiler)

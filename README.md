@@ -24,10 +24,10 @@ Este indice de contenidos en CSS, HTML, fue tomado de <a href="http://5thirtyone
 
 # Por mejorar.
 
-- Que los titulos esten dentro de la tabla con sus H1 o H2 orientado al SEO ONPAGE.
-- Mejorar la versión responsive para moviles.
-- Que funcione con la Jquery actual ya que solo finciona con la versión 1.11.0
+- Que los títulos esten dentro de la tabla TOC con sus H1 o H2 orientado al SEO ONPAGE, en su defecto que solo quede el enlace del título como el los pluging de un CMS.
+- Mejorar la versión responsive para móviles.
+- Que funcione con la Jquery actual ya que solo funciona con la versión 1.11.0
 
-PD: Mete mano a los archivos si sabes como hacer la mejora y publica la actualización, con ello ayudas a la comunidad Blogger a nivel mundial ;)
+PD: Si quieres ayudar a este proyecto, mete mano a los archivos si sabes como hacer la mejora y publica la actualización, con ello ayudas a la comunidad Blogger a nivel mundial ;)
 
 

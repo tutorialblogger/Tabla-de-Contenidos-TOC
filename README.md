@@ -14,8 +14,10 @@ Cambiar en el archivo xml el contenido de ejemplo por tus datos.
 # Nota adicional.
 
 Debes usar los Anclajes y enlaces ancla para hacer que la tabla funciones en el mismo post, ejemplo:
+
 +En el enlace debes colocar la ruta al anclaje: &lt;a href=&quot;#1&quot;&gt;Cap&iacute;tulo 1&lt;/a&gt;
-+En el titulo debes colocar un nombre e Id del anclaje: <h2><a name="1" id="1"></a>Título del Capítulo 1</h2>
+
++En el titulo debes colocar un nombre e Id del anclaje: &lt;h2&gt;&lt;a name=&quot;1&quot; id=&quot;1&quot;&gt;&lt;/a&gt;Título del Capítulo 1&lt;/h2&gt;
 
 # Derechos de autor.
 

@@ -1,4 +1,4 @@
-# Tabla o índice de contenidos TOC para blogger
+# Tabla o índice de contenidos para blogger - TOC
 
 Este es un ejemplo de cómo usar una Tabla de Contenidos en blogger. <a href="https://www.adaptacionesweb.com/p/indice-de-contenido-toc-prueba.html">Ver ejemplo aquí</a>
 
@@ -21,6 +21,14 @@ Debes usar los Anclajes y enlaces ancla para hacer que la tabla funciones en el 
 
 # Derechos de autor.
 
-Este indice de contenidos en CSS, HTML, fue tomada de <a href="http://5thirtyone.com/sandbox/share/toc/" target="_blank">5thirtyone</a> y adaptada para blogger dentro de un JavaScript (spoiler)
+Este indice de contenidos en CSS, HTML, fue tomadO de <a href="http://5thirtyone.com/sandbox/share/toc/" target="_blank">5thirtyone</a> y adaptada para blogger dentro de un JavaScript (spoiler)
+
+# Por mejorar.
+
+- Que los titulos esten dentro de la tabla con sus H1 o H2 orientado al SEO ONPAGE.
+- Mejorar la versión responsive para moviles.
+- Que funcione con la Jquery actual ya que solo finciona con la versión 1.11.0
+
+PD: Mete mano a los archivos si sabes como hacer la mejora y publica la actualización, con ello ayudas a la comunidad Blogger a nivel mundial ;)
 
 

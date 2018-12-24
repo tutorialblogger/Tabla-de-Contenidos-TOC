@@ -30,4 +30,6 @@ Este indice de contenidos en CSS, HTML, fue tomado de <a href="http://5thirtyone
 
 PD: Si quieres ayudar a este proyecto, mete mano a los archivos si sabes como hacer la mejora y publica la actualización, con ello ayudas a la comunidad Blogger a nivel mundial ;)
 
+# Actualización.
 
+Hoy te traigo un pack completo de diferentes tablas de contenidos exclusivas para blogger y que puedes colocar con apenas unos clic, si no sabes de programación no importa, ya que el procedimiento de insertar una tabla de contenido en blogger en muy intuitivo y sencillo. <a href="https://www.tutorialblogger.org/p/tabla-de-contenidos-blogger.html" target="_blank">Packs Tabla Contenido Blogger</a>

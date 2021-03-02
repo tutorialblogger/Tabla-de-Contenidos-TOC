@@ -1,6 +1,6 @@
 # Tabla o índice de contenidos para blogger - TOC
 
-Este es un ejemplo de cómo usar una Tabla de Contenidos en blogger. <a href="https://www.adaptacionesweb.com/p/indice-de-contenido-toc-prueba.html">Ver ejemplo aquí</a>
+Este es un ejemplo de cómo usar una Tabla de Contenidos en blogger. <a href="https://site3cero-legales.blogspot.com/p/indice-de-contenido-toc-prueba.html">Ver ejemplo aquí</a>
 
 # Instalación.
 
@@ -32,4 +32,4 @@ PD: Si quieres ayudar a este proyecto, mete mano a los archivos si sabes como ha
 
 # Actualización.
 
-Hoy te traigo un pack completo de diferentes tablas de contenidos exclusivas para blogger y que puedes colocar con apenas unos clic, si no sabes de programación no importa, ya que el procedimiento de insertar una tabla de contenido en blogger en muy intuitivo y sencillo. <a href="https://www.tutorialblogger.org/p/tabla-de-contenidos-blogger.html" target="_blank">Packs Tabla Contenido Blogger</a>
+Hoy te traigo un pack completo de diferentes tablas de contenidos exclusivas para blogger y que puedes colocar con apenas unos clic, si no sabes de programación no importa, ya que el procedimiento de insertar una tabla de contenido en blogger en muy intuitivo y sencillo. <a href="https://tutorialbloggerorg.blogspot.com/p/tabla-de-contenidos-blogger.html" target="_blank">Packs Tabla Contenido Blogger</a>
